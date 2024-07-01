@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+.question {
+  color: black;
+  width: fit-content;
+  border: solid;
+  border-color: aqua;
+}
+
+.answer {
+  color: black;
+  width: fit-content;
+  border: solid;
+  border-color: aqua;
+  display: inline-table;
+}
